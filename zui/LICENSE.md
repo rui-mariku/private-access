@@ -13,7 +13,7 @@ All Rights Reserved.
 
 ## **禁止事項**
 
-法律で認められている場合を除き、著作権者である[権利保持者の氏名または組織名]の書面による事前の許可なく、本著作物の全部または一部について、以下の行為を固く禁じます。
+法律で認められている場合を除き、著作権者である Kunihiko Bessho の書面による事前の許可なく、本著作物の全部または一部について、以下の行為を固く禁じます。
 
 * 複製、スキャン、デジタルデータ化
 * 改変、翻訳、翻案
@@ -35,7 +35,7 @@ This work (PDF file) is permitted only for an individual who has downloaded it t
 
 ## **Prohibited Actions**
 
-Unless otherwise permitted by law, without the prior written permission of the copyright holder, [Name of Copyright Holder], any of the following actions for all or part of this work are strictly prohibited:
+Unless otherwise permitted by law, without the prior written permission of the copyright holder, Kunihiko Bessho, any of the following actions for all or part of this work are strictly prohibited:
 
 * Reproduction, scanning, or digitization.
 * Modification, translation, or adaptation.
