@@ -7,11 +7,11 @@
 Copyright (c) 2025 by Kunihiko Bessho.
 All Rights Reserved.
 
-**## 許可事項**
+## **許可事項**
 
 本著作物（PDFファイル）をダウンロードした個人が、自身の所有する端末上で私的に閲覧することのみを許可します。
 
-**## 禁止事項**
+## **禁止事項**
 
 法律で認められている場合を除き、著作権者である[権利保持者の氏名または組織名]の書面による事前の許可なく、本著作物の全部または一部について、以下の行為を固く禁じます。
 
@@ -29,11 +29,11 @@ All Rights Reserved.
 Copyright (c) 2025 by Kunihiko Bessho.
 All Rights Reserved.
 
-**## Permitted Use**
+## **Permitted Use**
 
 This work (PDF file) is permitted only for an individual who has downloaded it to view privately on their own device.
 
-**## Prohibited Actions**
+## **Prohibited Actions**
 
 Unless otherwise permitted by law, without the prior written permission of the copyright holder, [Name of Copyright Holder], any of the following actions for all or part of this work are strictly prohibited:
 
